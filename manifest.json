@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name":"test",
+    "version":"0.1",
+
+    "icons": {
+        "16": "/img/face_co.png",
+        "48": "/img/face_co.png"
+    },
+
+    "action": {
+        "default_title": "Click Me",
+        "default_popup": "popup.html"
+    }
+}
